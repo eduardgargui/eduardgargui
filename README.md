@@ -36,7 +36,7 @@ Administrative professional with a growing focus on data analysis, interested in
 
 </span>
 
-## Let's Connect 
+## Let's Connect <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 
 <a href= "https://www.linkedin.com/in/eduardgargui/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
