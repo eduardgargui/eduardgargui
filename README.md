@@ -7,10 +7,10 @@
 Administrative professional with a growing focus on data analysis, interested in working with data to extract clear and practical insights. Currently developing Python-based data analysis skills and creating useful visualizations.
 - 🌱 I’m currently learning ...
   - SQL
-  - Mastering Python for data analytics
-  - Power Bi
+  - Improving Python for data analysis
+  - Power BI
 - ✔ Ask me about anything, I am happy to help and connect
-- 📫 Reach out to me at: <a href="egarciaguillen@hotmail.com">egarciaguillen@hotmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:egarciaguillen@hotmail.com">egarciaguillen@hotmail.com</a>
 
 ## My Skills 🛠️
 
