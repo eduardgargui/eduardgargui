@@ -9,7 +9,7 @@ Administrative professional with a growing focus on data analysis, interested in
   - SQL
   - Improving Python for data analysis
   - Power BI
-- ✔ Ask me about anything, I am happy to help and connect
+- ✔ Ask me about anything, Always open to help and connect
 - 📫 Reach out to me at: <a href="mailto:egarciaguillen@hotmail.com">egarciaguillen@hotmail.com</a>
 
 ## My Skills 🛠️
