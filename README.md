@@ -23,7 +23,7 @@ Administrative professional with a growing focus on data analysis, interested in
 
 </span>
 
-	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
@@ -42,5 +42,5 @@ Administrative professional with a growing focus on data analysis, interested in
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 <a href="mailto:egarciaguillen@hotmail.com" >
-  <img src="https://img.shields.io/badge/Microsoft_Outlook:-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="mail">
+  <img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="egarciaguillen@hotmail.com">
 </a>
